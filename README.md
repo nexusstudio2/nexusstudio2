@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**nexusstudio2/nexusstudio2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Angel Alejandro Soto 👋
 
-Here are some ideas to get you started:
+Estudiante de Técnico en Programación en Chihuahua, México.
+Me interesa el desarrollo web y la creación de soluciones digitales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+- **Frontend:** HTML, CSS, JavaScript, React (básico)
+- **Backend:** Python, FastAPI
+- **Bases de datos:** PostgreSQL
+- **Herramientas:** Git, GitHub, Docker
+- **Diseño:** Figma, Canva
+
+## 🚀 Proyectos destacados
+
+### Nexus Studio
+Proyecto personal enfocado en el desarrollo de páginas web
+y soluciones digitales para negocios.
+
+- Sitio web: https://nexus-studio-vert.vercel.app/
+- Código fuente: https://github.com/nexusstudio2/NexusStudio
+
+
+## 🎯 Objetivo profesional
+
+Busco oportunidades junior y prácticas profesionales para
+seguir desarrollando mis habilidades, aprender de otros
+desarrolladores y contribuir a proyectos reales.
+
+## 📫 Contacto
+
+- Email: angelsot801@gmail.com
