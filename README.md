@@ -1,8 +1,7 @@
 
 # ¡Hola! Soy Angel Alejandro Soto 👋
 
-Estudiante de Técnico en Programación en Chihuahua, México.
-Me interesa el desarrollo web y la creación de soluciones digitales.
+Estudiante de Técnico en Programación | Desarrollo Web Junior | React · JavaScript · Python · FastAPI · PostgreSQL
 
 ## Tecnologías y herramientas
 
